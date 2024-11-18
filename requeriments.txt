@@ -1,0 +1,1 @@
+for pydroid3 and termux install with pip the library request, time, telebot add combo txt to check credit card 
